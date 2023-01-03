@@ -1,0 +1,55 @@
+.head{
+    height: 300px;
+    text-align: center;
+    
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+    
+    background-image:url("image.jpg")
+}
+.para{ display: inline;
+    color: purple;
+    font-size: 24px;
+
+
+}
+.pgr{
+    color: green;
+    width: ;
+    background-color:skyblue;
+    border: 15px solid yellowgreen;
+    border-radius: 15px;
+    padding: 20px 15px 20px 10px;
+    margin: 50px;
+    
+    text-align: center;
+    position: 
+    
+
+}
+.ptr{
+    color: green;
+    width:;
+    background-color:skyblue;
+    border: 15px solid yellowgreen;
+    border-radius: 15px;
+    padding: 20px 15px 20px 10px;
+    margin: 50px;
+    display: 
+
+}
+.for{
+    background-color: brown;
+    border: 5px solid black;
+   
+    width: 400px;
+    height: 200px;
+    padding: 40px 40px 40px;
+    margin: 200px;
+    border-radius: 15px;
+    
+    
+}
+
+
+
